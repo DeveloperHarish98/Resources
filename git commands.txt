@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m "first commit"
+git remote add origin "Link_of_repo"
+git push origin "branch_name"
